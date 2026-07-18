@@ -1,0 +1,6 @@
+{
+  "name": "Study Relevance Calculator & Student Companion",
+  "description": "Calculate degree relevance in Kenya, Nigeria, or South Africa using real-time job market data, salary projections, and explore Google student offerings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
